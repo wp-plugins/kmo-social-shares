@@ -1,7 +1,7 @@
 <?php
    /*
    Plugin Name: Kmo Social
-   Plugin URI: http://www.kmo.com.au/blog/wordpress-social-shares-icons
+   Plugin URI: http://www.kmo.com.au/blog/wordpress-social-shares-plugin/
    Description: A plugin to display social share icons
    Version: 1.0.0
    Author: KMO Design Pty Ltd

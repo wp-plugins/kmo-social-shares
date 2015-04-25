@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== KMO Social ===
 Contributors: kmo_design
 Donate link: http://www.kmo.com.au/
 Tags: social, icons, share, tweet, pin, facebook, twitter, pinterest, googleplus
